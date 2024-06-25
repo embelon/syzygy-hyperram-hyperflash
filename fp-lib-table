@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "syzygy-hyperram-hyperflash")(type "KiCad")(uri "${KIPRJMOD}/syzygy-hyperram-hyperflash.pretty")(options "")(descr ""))
+)
