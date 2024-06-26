@@ -4304,10 +4304,22 @@
 		(uuid "5394b2f6-1d27-42e5-b459-377cc2cd8b43")
 	)
 	(junction
+		(at 167.64 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8daaff7f-8cb6-4235-8684-60f58b36b3c8")
+	)
+	(junction
 		(at 217.17 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d70def58-3568-4d8b-8e85-ba5065bca591")
+	)
+	(junction
+		(at 167.64 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d92e8fd3-61fb-449b-81cd-cb5019f754cc")
 	)
 	(junction
 		(at 127 177.8)
@@ -4379,6 +4391,26 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 116.84) (xy 167.64 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00f2261f-c642-4bd2-b161-f3f7c03da5c4")
+	)
+	(wire
+		(pts
+			(xy 139.7 111.76) (xy 139.7 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03a672dc-85b1-43ab-8f2d-2e9318aa8f5f")
+	)
+	(wire
+		(pts
 			(xy 76.2 88.9) (xy 76.2 91.44)
 		)
 		(stroke
@@ -4396,6 +4428,16 @@
 			(type default)
 		)
 		(uuid "04dcac90-87d7-4434-9d56-467ff081f405")
+	)
+	(wire
+		(pts
+			(xy 167.64 111.76) (xy 167.64 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04fff431-1cb6-47b0-98a5-0bae622844c1")
 	)
 	(wire
 		(pts
@@ -4539,6 +4581,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 116.84) (xy 167.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "194aef92-2ce2-4648-9794-79b37d15cbf3")
+	)
+	(wire
+		(pts
 			(xy 262.89 27.94) (xy 262.89 30.48)
 		)
 		(stroke
@@ -4629,6 +4681,16 @@
 	)
 	(wire
 		(pts
+			(xy 165.1 114.3) (xy 167.64 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2615ca60-86dc-4a1d-a6e0-970295bade59")
+	)
+	(wire
+		(pts
 			(xy 205.74 53.34) (xy 205.74 73.66)
 		)
 		(stroke
@@ -4646,6 +4708,16 @@
 			(type default)
 		)
 		(uuid "27efd0ca-f785-4f5e-aab3-d70edf5f3eee")
+	)
+	(wire
+		(pts
+			(xy 144.78 107.95) (xy 144.78 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ac50554-a763-4ae5-bb12-d7d205409fe1")
 	)
 	(wire
 		(pts
@@ -4696,6 +4768,16 @@
 			(type default)
 		)
 		(uuid "34c7f5d5-a369-415a-a701-a1909fbd7af6")
+	)
+	(wire
+		(pts
+			(xy 139.7 116.84) (xy 152.4 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3760414a-2717-4a3f-9f98-7cfcaaf04630")
 	)
 	(wire
 		(pts
@@ -4896,6 +4978,16 @@
 			(type default)
 		)
 		(uuid "4a7fc39a-5c94-43a3-9210-f7113b3e1764")
+	)
+	(wire
+		(pts
+			(xy 149.86 105.41) (xy 149.86 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b20af5d-8af2-4e0e-b8ab-e96c9fb5c540")
 	)
 	(wire
 		(pts
@@ -5489,6 +5581,16 @@
 	)
 	(wire
 		(pts
+			(xy 149.86 111.76) (xy 152.4 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fb9e693-bf38-4de5-b8fd-e9ca790171ad")
+	)
+	(wire
+		(pts
 			(xy 175.26 76.2) (xy 185.42 76.2)
 		)
 		(stroke
@@ -5589,6 +5691,16 @@
 	)
 	(wire
 		(pts
+			(xy 167.64 114.3) (xy 167.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2e33aae-48d9-4e22-94d2-493adc2568ac")
+	)
+	(wire
+		(pts
 			(xy 243.84 144.78) (xy 243.84 147.32)
 		)
 		(stroke
@@ -5666,6 +5778,16 @@
 			(type default)
 		)
 		(uuid "bd7a2012-57d4-4286-a478-6c8ebe6f13f8")
+	)
+	(wire
+		(pts
+			(xy 165.1 111.76) (xy 167.64 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be4c2bbc-d34a-4b25-bf2a-55cf400b4d3b")
 	)
 	(wire
 		(pts
@@ -6039,6 +6161,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 114.3) (xy 152.4 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdbc5816-5c7c-40d8-b9f2-72ddaa425d87")
+	)
+	(wire
+		(pts
 			(xy 139.7 177.8) (xy 139.7 180.34)
 		)
 		(stroke
@@ -6112,7 +6244,7 @@
 		(uuid "079f2595-7e1a-433d-8c2a-a1a2896ee4a9")
 	)
 	(label "HF_CLK+"
-		(at 50.8 53.34 0)
+		(at 50.8 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6145,7 +6277,7 @@
 		(uuid "1013f29b-e9d5-4186-a5c9-c4111b5486c7")
 	)
 	(label "HF_CSN"
-		(at 50.8 58.42 0)
+		(at 50.8 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6211,13 +6343,13 @@
 		(uuid "21f429e3-5e4a-46f9-bf41-2d93142949d0")
 	)
 	(label "HF_RSTON"
-		(at 50.8 50.8 0)
+		(at 101.6 60.96 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "24d0794f-c86b-4092-a480-965c5258713a")
 	)
@@ -6255,13 +6387,13 @@
 		(uuid "2c27e9ed-ef22-43dd-8d1a-7fbe38fd8c91")
 	)
 	(label "HF_RSTN"
-		(at 50.8 45.72 0)
+		(at 101.6 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "2dcaf32c-744f-4996-8d38-4a62813fccb5")
 	)
@@ -6387,7 +6519,7 @@
 		(uuid "5050af28-2d0f-4105-adc3-fdf066c0134e")
 	)
 	(label "HR_DQ2"
-		(at 50.8 71.12 0)
+		(at 50.8 60.96 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6508,13 +6640,13 @@
 		(uuid "742a7f81-1635-4aa0-ba5b-067e79488015")
 	)
 	(label "HR_RSTN"
-		(at 50.8 73.66 0)
+		(at 101.6 71.12 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "7436567d-77f1-449e-8883-e526442f2c59")
 	)
@@ -6585,13 +6717,13 @@
 		(uuid "88dd5994-bc90-4d2b-ae23-2b155aecf17d")
 	)
 	(label "HR_CSN"
-		(at 50.8 76.2 0)
+		(at 101.6 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "8a1574d5-91bf-4f84-843f-49d0de9d523e")
 	)
@@ -6728,18 +6860,18 @@
 		(uuid "bae3c67c-fb7c-401a-9f40-45888ecf7bb7")
 	)
 	(label "HF_INTN"
-		(at 50.8 43.18 0)
+		(at 101.6 63.5 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right bottom)
 		)
 		(uuid "bd3ee4e7-1082-4e13-bf7a-9068d1b20eeb")
 	)
 	(label "HF_CS2N"
-		(at 50.8 48.26 0)
+		(at 50.8 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6761,7 +6893,7 @@
 		(uuid "caec5fa4-1dff-48c0-acd3-e89ce4a2a3a1")
 	)
 	(label "HR_DQ5"
-		(at 50.8 66.04 0)
+		(at 50.8 63.5 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6772,7 +6904,7 @@
 		(uuid "ccafbaca-d301-4d4f-8dee-fd6d696c53de")
 	)
 	(label "HR_DQ3"
-		(at 50.8 68.58 0)
+		(at 50.8 58.42 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6783,7 +6915,7 @@
 		(uuid "cec74a0f-32af-4c34-a60e-6fc65c86f645")
 	)
 	(label "HF_CLK-"
-		(at 50.8 55.88 0)
+		(at 50.8 50.8 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6794,40 +6926,40 @@
 		(uuid "cf849662-0d2e-4ada-8c6e-8d9ffe63b905")
 	)
 	(label "HR_DQ0"
-		(at 101.6 66.04 180)
+		(at 50.8 66.04 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d3d5668c-51c5-490d-bb0b-7d65ca58e7f3")
 	)
 	(label "HR_DQ1"
-		(at 101.6 63.5 180)
+		(at 50.8 73.66 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d4a82b6b-24ea-464b-93f3-8b2b19310319")
 	)
 	(label "HR_DQ4"
-		(at 101.6 68.58 180)
+		(at 50.8 55.88 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "d6891744-6771-4571-b461-e36d11a56693")
 	)
 	(label "HR_DQ6"
-		(at 50.8 63.5 0)
+		(at 50.8 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6849,13 +6981,13 @@
 		(uuid "da5a30e3-92c4-4b00-b678-fbb1d4d9ad97")
 	)
 	(label "HR_DQ7"
-		(at 101.6 60.96 180)
+		(at 50.8 71.12 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "e3d1f554-b4f0-4cf0-8401-d608fe8f4b94")
 	)
@@ -6926,13 +7058,13 @@
 		(uuid "f171b288-3a01-4ee0-9bc4-25a0b5f143e8")
 	)
 	(label "HR_RWDS"
-		(at 101.6 71.12 180)
+		(at 50.8 76.2 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "fc03be09-1fbd-4d11-9672-55ea9aec439a")
 	)
@@ -7870,6 +8002,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:VCC")
+		(at 149.86 105.41 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3524199a-d00a-4f63-b10a-9470b2efca87")
+		(property "Reference" "#PWR051"
+			(at 149.86 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VCC"
+			(at 149.86 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 149.86 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e14f9724-9a9a-4e66-8d10-526df330e7d0")
+		)
+		(instances
+			(project "syzygy-hyperram-hyperflash"
+				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
+					(reference "#PWR051")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_name "GND_1")
 		(lib_id "power:GND")
 		(at 252.73 87.63 0)
@@ -8065,6 +8262,71 @@
 			(project "syzygy-hyperram-hyperflash"
 				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
 					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 139.7 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "41f4db88-5ef8-497f-9727-ebfe74e53f6c")
+		(property "Reference" "#PWR054"
+			(at 139.7 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 139.7 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 139.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 139.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 139.7 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5f40cedb-ffd4-4726-b40d-2c52de2efae6")
+		)
+		(instances
+			(project "syzygy-hyperram-hyperflash"
+				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -10954,6 +11216,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3.3V")
+		(at 144.78 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "a3ab7b83-e3e6-44d3-9352-2ff812899fae")
+		(property "Reference" "#PWR052"
+			(at 144.78 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3.3V"
+			(at 144.78 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "10faa636-5466-4137-b2b9-adbd01e1be83")
+		)
+		(instances
+			(project "syzygy-hyperram-hyperflash"
+				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
+					(reference "#PWR052")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 127 128.27 0)
 		(unit 1)
@@ -11576,6 +11903,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_02x03_Odd_Even")
+		(at 157.48 114.3 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bb1d093e-b54d-42fa-a011-fbbc9ebfdd1e")
+		(property "Reference" "J3"
+			(at 158.75 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_02x03_Odd_Even"
+			(at 158.75 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x03_P2.54mm_Vertical"
+			(at 157.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 157.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, double row, 02x03, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 157.48 114.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "acc27471-ec8a-428b-95de-4efe63e05b13")
+		)
+		(pin "4"
+			(uuid "2a2e0eb4-1190-4cb2-9170-d335538c9b2b")
+		)
+		(pin "2"
+			(uuid "4ef8e716-2c41-4bcf-9817-1d13854f8526")
+		)
+		(pin "5"
+			(uuid "f7ab17ba-15e8-4d9f-834c-800480ab1a38")
+		)
+		(pin "3"
+			(uuid "819993a9-0039-411f-945d-df16328d297e")
+		)
+		(pin "6"
+			(uuid "8358fc33-94da-48d8-b132-013ae68eb2a8")
+		)
+		(instances
+			(project "syzygy-hyperram-hyperflash"
+				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 186.69 27.94 0)
 		(unit 1)
@@ -11767,6 +12174,71 @@
 			(project "syzygy-hyperram-hyperflash"
 				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
 					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 167.64 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c166ce19-9550-4004-bb68-6a14d2410ef2")
+		(property "Reference" "#PWR053"
+			(at 167.64 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 167.64 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 167.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 167.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8be98103-a690-43a8-8330-c343ca9eff5b")
+		)
+		(instances
+			(project "syzygy-hyperram-hyperflash"
+				(path "/3ea984bf-97f8-479c-979d-6f59613329e3"
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
