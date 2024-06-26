@@ -522,7 +522,11 @@
     "netclass_patterns": [
       {
         "netclass": "HyperRAM_diff",
-        "pattern": "/*_clk*"
+        "pattern": "/*_CLK*"
+      },
+      {
+        "netclass": "HyperRAM_diff",
+        "pattern": "/*_PSC*"
       }
     ]
   },
