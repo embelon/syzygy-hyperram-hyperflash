@@ -4601,7 +4601,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 118.11) (xy 189.23 120.65)
+			(xy 189.23 125.73) (xy 189.23 128.27)
 		)
 		(stroke
 			(width 0)
@@ -5451,7 +5451,7 @@
 	)
 	(wire
 		(pts
-			(xy 217.17 118.11) (xy 217.17 120.65)
+			(xy 217.17 125.73) (xy 217.17 128.27)
 		)
 		(stroke
 			(width 0)
@@ -6317,7 +6317,7 @@
 		(uuid "1013f29b-e9d5-4186-a5c9-c4111b5486c7")
 	)
 	(label "HF_CSN"
-		(at 50.8 43.18 0)
+		(at 50.8 45.72 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6383,7 +6383,7 @@
 		(uuid "21f429e3-5e4a-46f9-bf41-2d93142949d0")
 	)
 	(label "HF_RSTON"
-		(at 101.6 38.1 180)
+		(at 101.6 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6427,7 +6427,7 @@
 		(uuid "2c27e9ed-ef22-43dd-8d1a-7fbe38fd8c91")
 	)
 	(label "HF_RSTN"
-		(at 101.6 43.18 180)
+		(at 101.6 38.1 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6911,7 +6911,7 @@
 		(uuid "bd3ee4e7-1082-4e13-bf7a-9068d1b20eeb")
 	)
 	(label "HF_CS2N"
-		(at 50.8 45.72 0)
+		(at 50.8 43.18 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9595,7 +9595,7 @@
 	)
 	(symbol
 		(lib_id "syzygy-hyperram-hyperflash:150080BS75000")
-		(at 217.17 135.89 90)
+		(at 217.17 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9603,7 +9603,7 @@
 		(dnp no)
 		(uuid "72f35a6a-8335-4049-b897-71db8807dcb6")
 		(property "Reference" "LED2"
-			(at 224.79 128.27 0)
+			(at 224.79 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9611,7 +9611,7 @@
 			)
 		)
 		(property "Value" "150080VS75000"
-			(at 222.25 124.46 0)
+			(at 222.25 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9619,7 +9619,7 @@
 			)
 		)
 		(property "Footprint" "LEDC2012X80N"
-			(at 213.36 123.19 0)
+			(at 213.36 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9629,7 +9629,7 @@
 			)
 		)
 		(property "Datasheet" "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf"
-			(at 215.9 123.19 0)
+			(at 215.9 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9639,7 +9639,7 @@
 			)
 		)
 		(property "Description" "LED,Wurth Elektronik,150080BS75000 Wurth Elektronik 150080BS75000, WL-SMCW Series Blue LED, 470 nm 2012 (0805) Clear, Rectangle Lens SMD package"
-			(at 218.44 123.19 0)
+			(at 218.44 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9649,7 +9649,7 @@
 			)
 		)
 		(property "Height" "0.8"
-			(at 220.98 123.19 0)
+			(at 220.98 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9659,7 +9659,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-150080BS75000"
-			(at 223.52 123.19 0)
+			(at 223.52 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9669,7 +9669,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080BS75000?qs=2kOmHSv6VfT2tBo3UPVqAQ%3D%3D"
-			(at 226.06 123.19 0)
+			(at 226.06 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9679,7 +9679,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 228.6 123.19 0)
+			(at 228.6 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9689,7 +9689,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "150080BS75000"
-			(at 231.14 123.19 0)
+			(at 231.14 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10236,7 +10236,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 189.23 114.3 0)
+		(at 189.23 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10245,7 +10245,7 @@
 		(fields_autoplaced yes)
 		(uuid "7f81748a-edf4-4bc8-8d2a-79ef7294f4af")
 		(property "Reference" "R2"
-			(at 191.77 113.0299 0)
+			(at 191.77 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10254,7 +10254,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 191.77 115.5699 0)
+			(at 191.77 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10263,7 +10263,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 187.452 114.3 90)
+			(at 187.452 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10272,7 +10272,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 189.23 114.3 0)
+			(at 189.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10281,7 +10281,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 189.23 114.3 0)
+			(at 189.23 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10663,7 +10663,7 @@
 	)
 	(symbol
 		(lib_id "syzygy-hyperram-hyperflash:150080VS75000")
-		(at 189.23 135.89 90)
+		(at 189.23 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10671,7 +10671,7 @@
 		(dnp no)
 		(uuid "91c7d8d3-6228-41f6-913c-d0894e7df07e")
 		(property "Reference" "LED1"
-			(at 196.85 128.27 0)
+			(at 196.85 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10679,7 +10679,7 @@
 			)
 		)
 		(property "Value" "150080VS75000"
-			(at 194.31 124.46 0)
+			(at 194.31 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10687,7 +10687,7 @@
 			)
 		)
 		(property "Footprint" "LEDC2012X80N"
-			(at 185.42 123.19 0)
+			(at 185.42 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10697,7 +10697,7 @@
 			)
 		)
 		(property "Datasheet" "http://katalog.we-online.com/led/datasheet/150080VS75000.pdf"
-			(at 187.96 123.19 0)
+			(at 187.96 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10707,7 +10707,7 @@
 			)
 		)
 		(property "Description" "Wurth Elektronik WL-SMCW 570 nm Green LED, 2012 (0805) Clear SMD package"
-			(at 190.5 123.19 0)
+			(at 190.5 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10717,7 +10717,7 @@
 			)
 		)
 		(property "Height" "0.8"
-			(at 193.04 123.19 0)
+			(at 193.04 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10727,7 +10727,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-150080VS75000"
-			(at 195.58 123.19 0)
+			(at 195.58 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10737,7 +10737,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080VS75000?qs=LlUlMxKIyB0tGHJmO6%252B0ug%3D%3D"
-			(at 198.12 123.19 0)
+			(at 198.12 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10747,7 +10747,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 200.66 123.19 0)
+			(at 200.66 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10757,7 +10757,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "150080VS75000"
-			(at 203.2 123.19 0)
+			(at 203.2 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11121,7 +11121,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 217.17 114.3 0)
+		(at 217.17 132.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11130,7 +11130,7 @@
 		(fields_autoplaced yes)
 		(uuid "980e150b-9756-417b-9f6e-a3d46a5910eb")
 		(property "Reference" "R3"
-			(at 219.71 113.0299 0)
+			(at 219.71 130.8099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11139,7 +11139,7 @@
 			)
 		)
 		(property "Value" "220"
-			(at 219.71 115.5699 0)
+			(at 219.71 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11148,7 +11148,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
-			(at 215.392 114.3 90)
+			(at 215.392 132.08 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11157,7 +11157,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 217.17 114.3 0)
+			(at 217.17 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11166,7 +11166,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 217.17 114.3 0)
+			(at 217.17 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
